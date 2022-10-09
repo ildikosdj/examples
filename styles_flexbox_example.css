@@ -1,0 +1,19 @@
+.flex-container {
+      background: lightblue;
+      padding: 16px;
+      border 4px solud blue;
+      display: flex;
+      gap: 8px;
+    }
+    
+    .item {
+      background: peachpuff;
+      border: 4px solid salmon;
+      padding: 1px;
+      flex:1;
+      height:48px;
+    }
+
+    /* flex: initial flex: 0 1 auto;
+    flex: auto flex: 1 1 auto;
+    flex: none flex: 0 0 auto; */
